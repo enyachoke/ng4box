@@ -1,0 +1,7 @@
+{
+  "provider": "virtualbox",
+  "version": "0.1.0",
+  "username": "weberamaral",
+  "box_name": "ng4box",
+  "name": "@weberamaral/ng4box"
+}
